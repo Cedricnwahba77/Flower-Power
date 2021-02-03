@@ -7,6 +7,11 @@
     height: 50px;
 }
 
+#imgLogo {
+    width: 150px;
+    height: 150px;
+}
+
 #navUl li {
     padding: 0px 10px;
 }
@@ -44,7 +49,7 @@ body {
 header h1 {
     font-family: "Yusei Magic", sans-serif;
     text-align: center;
-    font-size: 150px;
+    font-size: 80px;
     color: #FAD2F9;
 }
 
@@ -79,19 +84,24 @@ nav li:hover {
 
 /* Main-Index */
 
+.colPadding {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
 .main-index {
     background: url("../img/goldengate.jpg");
     background-repeat: no-repeat;
     padding: 75px;
-    border-bottom: 1px solid black;
-    border-top: 1px solid black;
+    border-bottom: 5px solid pink;
+    border-top: 5px solid pink;
 }
 
 
 /* Footer */
 
 footer {
-    background-color: #9EFF9E;
+    background-color: #333333;
 }
 
 footer li {
@@ -99,7 +109,7 @@ footer li {
 }
 
 .footer-hours {
-    color: #FAD2F9;
+    color: blue;
     text-align: center;
     font-size: 1.2em;
     padding-top: 25px;
