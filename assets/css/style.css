@@ -2,6 +2,11 @@
     margin-bottom: -35px;
 }
 
+.imgResize {
+    width: 50px;
+    height: 50px;
+}
+
 #navUl li {
     padding: 0px 10px;
 }
@@ -91,4 +96,11 @@ footer {
 
 footer li {
     list-style: none;
+}
+
+.footer-hours {
+    color: #FAD2F9;
+    text-align: center;
+    font-size: 1.2em;
+    padding-top: 25px;
 }
