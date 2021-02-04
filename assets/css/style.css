@@ -104,6 +104,28 @@ footer {
     background-color: #333333;
 }
 
+/* Produit */
+.body-prod {
+    width: 100%;
+    background: url("../img/garden.jpeg");
+    background-size: cover;     
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-card{
+    
+    background-color:  #9EFF9E;
+    font-family: "Yusei Magic", sans-serif;
+}
+
+.row-dist{
+    margin-top : 10px;
+    
+}
+
+.cont-pad{
+    padding-top: 30px;
+}
 
 /* footer li {
     list-style: none;
