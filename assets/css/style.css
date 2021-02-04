@@ -66,7 +66,7 @@ nav li {
     padding: 5px;
     font-size: 20px;
     font-weight: bold;
-    background-color: #9EFF9E;
+    background-color: #17D82F;
     border-radius: 15px;
 }
 
@@ -76,7 +76,7 @@ nav li a {
 }
 
 nav li:hover {
-    background-color: #FAD2F9;
+    background-color: #D6DBDF;
     text-decoration: none;
     border-radius: 15px;
 }
@@ -85,33 +85,27 @@ nav li:hover {
 /* Main-Index */
 
 .colPadding {
-    padding-right: 0px;
-    padding-left: 0px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
 }
 
 .main-index {
-    background: url("../img/goldengate.jpg");
-    background-repeat: no-repeat;
+    background-color: #F3E1E7;
+    padding: 25px;
+    border-bottom: 5px solid black;
+    border-top: 3px solid black;
+}
+
+#main_contact {
+    background-color: #F3E1E7;
     padding: 75px;
-    border-bottom: 5px solid pink;
-    border-top: 5px solid pink;
+    border-bottom: 5px solid black;
+    border-top: 3px solid black;
 }
 
 
 /* Footer */
 
 footer {
-    background-color: #333333;
+    background-color: #75F06F;
 }
-
-
-/* footer li {
-    list-style: none;
-}
-
-.footer-hours {
-    color: blue;
-    text-align: center;
-    font-size: 1.2em;
-    padding-top: 25px;
-} */
