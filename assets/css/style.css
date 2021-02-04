@@ -106,10 +106,10 @@ nav li:hover {
 /* Main-Contact */
 
 #main_contact {
-    background: url("");
+    background-color: #f3e1e7;
     padding: 2em;
-    border-bottom: 5px solid pink;
-    border-top: 5px solid pink;
+    border-bottom: 5px solid black;
+    border-top: 3px solid black;
 }
 
 .header_contact {
@@ -131,22 +131,5 @@ nav li:hover {
 /* Footer */
 
 footer {
-<<<<<<< HEAD
-    background-color: #807a7a;
-}
-
-
-/* footer li {
-    list-style: none;
-}
-
-.footer-hours {
-    color: blue;
-    text-align: center;
-    font-size: 1.2em;
-    padding-top: 25px;
-} */
-=======
     background-color: #75F06F;
 }
->>>>>>> bcc1a6a93b176836852d23f564e2169d2686bd5d
