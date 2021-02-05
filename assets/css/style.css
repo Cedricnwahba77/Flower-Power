@@ -97,6 +97,16 @@ nav li:hover {
     border-top: 5px solid pink;
 }
 
+/* Main-Avis */
+
+.main-avis {
+    background: url("../img/fondprairies.jpg");
+    background-repeat: no-repeat;
+    border-bottom: 5px solid pink;
+    border-top: 5px solid pink;
+}
+  
+  
 
 /* Footer */
 
