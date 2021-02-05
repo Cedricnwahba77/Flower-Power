@@ -97,12 +97,7 @@ nav li:hover {
     border-top: 3px solid black;
 }
 
-#main_contact {
-    background-color: #F3E1E7;
-    padding: 75px;
-    border-bottom: 5px solid black;
-    border-top: 3px solid black;
-}
+
 
 /* Main-Avis */
 
@@ -110,23 +105,11 @@ nav li:hover {
    background-color: #F3E1E7;
     border-bottom: 5px solid black;
     border-top: 3px solid black;
-}
-  
-  
-/* Main-Contact */
-
-#main_contact {
-    background-color: #f3e1e7;
-    padding: 2em;
-    border-bottom: 5px solid black;
-    border-top: 3px solid black;
-}
-
-.header_contact {
-    padding-left: 4em;
+    width: 100%;
 }
 
 /* Produit */
+
 .body-prod {
     background-color: #F3E1E7;
     border-bottom: 5px solid black;
@@ -149,6 +132,19 @@ nav li:hover {
 .cont-pad{
     padding-top: 30px;
 }
+/* Main-Contact */
+
+#main_contact {
+    background-color: #f3e1e7;
+    padding: 2em;
+    border-bottom: 5px solid black;
+    border-top: 3px solid black;
+}
+
+.header_contact {
+    padding-left: 4em;
+}
+
 #main_contact > h1{
     padding-bottom: 1em;
 }
